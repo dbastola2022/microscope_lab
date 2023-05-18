@@ -12,7 +12,7 @@
 2. Second item
 3. Third item
 
-[Click Here](https://www.linkedin.com/in/francis-boateng/)
+[Click Here](https://www.linkedin.com/in/francis-boateng/](http://deepakbastola.com.np/)
 
 
 import numpy as np
